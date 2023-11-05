@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>NithyaD_CV</title>
+</head>
+
+<body>
+<h1 style="background-color:lightgrey;"><strong>Nithya Dharshini</strong></h1>
+<h2 style="background-color:lightgrey;">Student at Shiv Nadar University<br></h2>
+<p><b><br>NAME :</b> Nithya Dharshini</p>
+<p><b>DATE OF BIRTH :</b> 03.09.2003</p>
+<p><b>AGE :</b> 19</p>
+<p><b>PHONE :</b> 7397597634</p>
+<p><b>EMAIL :</b><i> nithya21110210@snuchennai.edu.in</i></p>
+<p><b>LINKEDIN :</b> <a href="linkedin.com/zety/nithyadharshini">nithyadharshini</a></p><hr>
+<p><b>EDUCATION :</b> <ul>
+<li>B.Tech in Computer Science with sepcialization in IoT - present</li>
+<li>Adhyapana School CBSE - 11th & 12th</li>
+<li>Indian School Muscat - KG1 to 10th</li></ul></p><hr>
+<p><b>PROJECTS DONE :</b> <ol>
+<li>Expense Tracker</li>
+<li>Automatic Car Parking System using Sensors</li>
+</ol></p><hr>
+<p><b>SOFT SKILLS :</b> <ul>
+<li>Communication skills</li>
+<li>Leadership skills</li>
+<li>Teamwork</li></p>
+
+</body>
+
+</html>
